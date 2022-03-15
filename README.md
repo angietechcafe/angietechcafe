@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/angieintech" target="blank"><img src="https://img.shields.io/twitter/follow/angieintech?logo=twitter&style=for-the-badge" alt="angieintech" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Hour](https://github.com/angieintech/Coding-Hour) & [Shuffle Automation Development] (https://github.com/orgs/Shuffle/teams/automation-dev)
+- 🔭 I’m currently working on [Coding Hour](https://github.com/angieintech/Coding-Hour) & Shuffle Automation Development (https://github.com/orgs/Shuffle/teams/automation-dev)
 
 - 🌱 I’m currently learning **python, JavaScript, APIs, etc.**
 
