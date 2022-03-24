@@ -7,14 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/angieintech" target="blank"><img src="https://img.shields.io/twitter/follow/angieintech?logo=twitter&style=for-the-badge" alt="angieintech" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Hour](https://github.com/angieintech/Coding-Hour) , [Shuffle Automation Development](https://github.com/orgs/Shuffle/teams/automation-dev) , and [Tiny Projects](https://github.com/angieintech/Tiny-Projects) 
+- 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) and [Tiny Projects](https://github.com/angieintech/Tiny-Projects) 
 
 - 🌱 I’m currently learning **python, JavaScript, APIs, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angieintech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coding hour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hour" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
