@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/angieintech" target="blank"><img src="https://img.shields.io/twitter/follow/angieintech?logo=twitter&style=for-the-badge" alt="angieintech" /></a> </p>
 
-- 🔭 I’m currently working on [Shuffle Automation Development] (https://github.com/orgs/Shuffle/teams/automation-dev),[FCC Projects](https://github.com/angieintech/FCC-Projects) and [Tiny Projects](https://github.com/angieintech/Tiny-Projects) 
+- 🔭 I’m currently working on [Shuffle Automation Development](https://github.com/orgs/Shuffle/teams/automation-dev) , [FCC Projects](https://github.com/angieintech/FCC-Projects) and [Tiny Projects](https://github.com/angieintech/Tiny-Projects) 
 
 - 🌱 I’m currently learning **python, JavaScript, APIs, etc.**
 
