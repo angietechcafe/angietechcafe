@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angieintech&label=Profile%20views&color=0e75b6&style=flat" alt="angieintech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angieintech" alt="angieintech" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/angieintech" target="blank"><img src="https://img.shields.io/twitter/follow/angieintech?logo=twitter&style=for-the-badge" alt="angieintech" /></a> </p>
 
 - 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) , [Tiny Projects](https://github.com/angieintech/Tiny-Projects), and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
