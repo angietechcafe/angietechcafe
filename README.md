@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) , [Tiny Projects](https://github.com/angieintech/Tiny-Projects), and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
 
+- I have contributed to open source projects such as [Shuffle](https://github.com/orgs/Shuffle/teams/automation-dev) and [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1) 
+
 - 🌱 I’m currently learning **python, JavaScript, APIs, web application pen testing, and etc.**
 
 <h3 align="left">Connect with me:</h3>
