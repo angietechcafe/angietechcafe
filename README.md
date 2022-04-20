@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angie</h1>
-<h3 align="center">A passionate web application pen tester & infosec enthusiast.</h3>
+<h3 align="center">A passionate web application pen tester, infosec enthusiast and WWC blogger.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angieintech&label=Profile%20views&color=0e75b6&style=flat" alt="angieintech" /> </p>
 
@@ -15,7 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angieintech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angieintech" height="30" width="40" /></a>
+<a href="https://medium.com/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="angieintech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coding hour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding hour" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
