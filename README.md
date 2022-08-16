@@ -22,8 +22,8 @@
 
 <h3 align="left">Pen Testing Walkthrough Videos:</h3>
 <p align="left">
-<a href="#"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 1" height="30" width="40" /> CTF Simulation Part 1</a>
-<a href="#"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 2" height="30" width="40" /> CTF Simulation Part 2</a>
+<a href="https://youtu.be/9KiTLc1URKA"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 1" height="30" width="40" /> CTF Simulation Part 1</a>
+<a href="https://youtu.be/c3XmTtd7JDU"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 2" height="30" width="40" /> CTF Simulation Part 2</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
