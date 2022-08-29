@@ -9,7 +9,7 @@
 
 - 👩‍💻 I have contributed to open source projects such as [Shuffle](https://github.com/orgs/Shuffle/teams/automation-dev) , [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1), and [Hack For LA](https://github.com/orgs/hackforla/teams/engineering-write/members) 
 
-- 🌱 I’m currently learning **python, JavaScript, APIs, web application pen testing, and etc.**
+- 🌱 I’m currently learning **python, JavaScript, APIs, web and mobile application pen testing, and etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
