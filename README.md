@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://youtu.be/9KiTLc1URKA"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 1" height="30" width="40" /> CTF Simulation Part 1</a>
 <a href="https://youtu.be/c3XmTtd7JDU"/><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 2" height="30" width="40" /> CTF Simulation Part 2</a>
-<a href="https://youtu.be/n_ZNhppzByg"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 2" height="30" width="40" />Women Who Code: Web Security Basics</a>
+<a href="https://youtu.be/n_ZNhppzByg"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="Pen Testing Video 2" height="30" width="40" />Women Who Code FrontEnd: Web Security Basics</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
