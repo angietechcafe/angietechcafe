@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angieintech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angieintech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChqJoKsIo40lKgLdAvz-jZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="angieintech height="30 width="40" /></a>
 <!--<a href="https://medium.com/@angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="angieintech" height="30" width="40" /></a>-->
 
   
