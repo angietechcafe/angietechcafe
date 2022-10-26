@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angie, and this is my IT journey.</h1>
 <h3 align="center">A passionate infosec enthusiast, AWS community builder, YouTuber, and community manager.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angie_techcafe&label=Profile%20views&color=0e75b6&style=flat" alt="angie_techcafe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angietechcafe&label=Profile%20views&color=0e75b6&style=flat" alt="angietechcafe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/angie_techcafe" target="blank"><img src="https://img.shields.io/twitter/follow/angie_techcafe?logo=twitter&style=for-the-badge" alt="angie_techcafe" /></a> </p>
 
