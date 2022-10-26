@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angie, and this is my IT journey.</h1>
 <h3 align="center">A passionate infosec enthusiast, AWS community builder, YouTuber, and community manager.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angieintech&label=Profile%20views&color=0e75b6&style=flat" alt="angieintech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angie_techcafe&label=Profile%20views&color=0e75b6&style=flat" alt="angie_techcafe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/angieintech" target="blank"><img src="https://img.shields.io/twitter/follow/angieintech?logo=twitter&style=for-the-badge" alt="angieintech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/angie_techcafe" target="blank"><img src="https://img.shields.io/twitter/follow/angie_techcafe?logo=twitter&style=for-the-badge" alt="angie_techcafe" /></a> </p>
 
 - 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) , [Tiny Projects](https://github.com/angieintech/Tiny-Projects), [Web Security](https://github.com/angieintech/Web-Security), [Mobile Pen Testing](https://github.com/angieintech/Mobile-Pen-Testing), and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
 
@@ -13,11 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angieintech" height="30" width="40" /></a>
+<a href="https://twitter.com/angie_techcafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angie_techcafe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angieintech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UChqJoKsIo40lKgLdAvz-jZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="angieintech height="30 width="40" /></a>
-<a href="https://www.instagram.com/angieintech/" target="blank"><img align="center" src="https://github.com/angieintech/img/blob/main/instagram-g57f32183e_640.jpg?raw=true" alt="angieintech" height="30" width="40" /></a>
-<!--<a href="https://medium.com/@angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="angieintech" height="30" width="40" /></a>-->
+<a href="https://www.instagram.com/angie_techcafe/" target="blank"><img align="center" src="https://github.com/angie_techcafe/img/blob/main/instagram-g57f32183e_640.jpg?raw=true" alt="angie_techcafe" height="30" width="40" /></a>
 
   
 </p>
