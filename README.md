@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angie_techcafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angie_techcafe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angieintech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angieintech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angietechcafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angietechcafe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UChqJoKsIo40lKgLdAvz-jZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="angieintech height="30 width="40" /></a>
 <a href="https://www.instagram.com/angie_techcafe/" target="blank"><img align="center" src="https://github.com/angie_techcafe/img/blob/main/instagram-g57f32183e_640.jpg?raw=true" alt="angie_techcafe" height="30" width="40" /></a>
 
