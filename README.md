@@ -18,6 +18,7 @@
 <a href="https://www.youtube.com/@angie_techcafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/angieintech/img/fcca9767a63889215e37af75c2cb09ce5fe543d6/YouTube%20Logo.svg" alt="angieintech height="30 width="40" /></a>
 <a href="https://www.instagram.com/angie_techcafe/" target="blank"><img align="center" src="https://github.com/angietechcafe/img/blob/main/instagram-g57f32183e_640.jpg?raw=true" alt="angie_techcafe" height="30" width="40" /></a>
 <a href="https://infosec.exchange/@angie_techcafe" target="blank"><img align="center" src="https://github.com/angietechcafe/img/blob/main/mastodon.png?raw=true" alt="angie_techcafe" height="30" width="40" /></a>
+  <a href="https://www.pinterest.com/angie_techcafe/" target="blank"><img align="center" src="https://github.com/angietechcafe/img/blob/main/Pinterest.png" alt="angie_techcafe" height="30" width="40" /></a>
   
 </p>
 
