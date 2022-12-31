@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angie, and this is my IT journey.</h1>
-<h3 align="center">A passionate infosec enthusiast, AWS community builder, YouTuber, and community cybersecurity manager. Security+ certified. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angietechcafe&label=Profile%20views&color=0e75b6&style=flat" alt="angietechcafe" /> </p>
+<h1 align="center">Hi 👋, I'm Angie.</h1>
 
 
 - 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) , [Tiny Projects](https://github.com/angieintech/Tiny-Projects), [Web Security](https://github.com/angieintech/Web-Security), and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
