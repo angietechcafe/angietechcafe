@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angie.</h1>
 
 
-- 🔭 I’m currently working on [FCC Projects](https://github.com/angieintech/FCC-Projects) , [Tiny Projects](https://github.com/angieintech/Tiny-Projects), [Web Security](https://github.com/angieintech/Web-Security), and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
+- 🔭 I’m currently working on [Tiny Projects](https://github.com/angieintech/Tiny-Projects) and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
 
 - 👩‍💻 I have contributed to open source projects such as [Shuffle](https://github.com/orgs/Shuffle/teams/automation-dev) , [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1), [Hack For LA](https://github.com/orgs/hackforla/teams/engineering-write/members), and [Awesome Appsec](https://github.com/paragonie/awesome-appsec) 
 
