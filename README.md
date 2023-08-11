@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angie.</h1>
+<h1 align="center">Hi 👋, I'm Angie. I'm also an Appsec Engineer. </h1>
 
 
 - 🔭 I’m currently working on [Tiny Projects](https://github.com/angieintech/Tiny-Projects) and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
