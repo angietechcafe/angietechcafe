@@ -5,7 +5,7 @@
 
 - 👩‍💻 I have contributed to open source projects such as [Shuffle](https://github.com/Shuffle/Shuffle) , [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1), [Hack For LA](https://github.com/orgs/hackforla/teams/engineering-write/members), and [Awesome Appsec](https://github.com/paragonie/awesome-appsec) 
 
-- 🌱 I’m currently learning **python, JavaScript, APIs, pen testing, cloud security, and etc.**
+- 🌱 I’m currently learning **application security and cloud security topics.**
 
 
 <h3 align="left">Languages and Tools:</h3>
