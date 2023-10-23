@@ -6,6 +6,7 @@
 - 👩‍💻 I have contributed to open source projects such as [Shuffle](https://github.com/Shuffle/Shuffle) , [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1), [Hack For LA](https://github.com/orgs/hackforla/teams/engineering-write/members), and [Awesome Appsec](https://github.com/paragonie/awesome-appsec) 
 
 - 🌱 I’m currently learning **application security and cloud security topics.**
+- Blog: <a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/Medium.png?raw=true" alt="Medium" width="40" height="40"/></a> 
 
 
 <h3 align="left">Languages and Tools:</h3>
