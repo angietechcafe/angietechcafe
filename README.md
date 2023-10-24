@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Angie. I'm also a lifelong learner. </h1>
 
 
-<h3> My blog:</h3>
-<p></p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a></p>
+<h3> Blog and Buy Me a Coffee</h3>
+<p></p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a>
+<a href="https://www.buymeacoffee.com/app/angietechcafe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+
 
 - 🔭 I’m currently working on [Tiny Projects](https://github.com/angieintech/Tiny-Projects) and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
 
