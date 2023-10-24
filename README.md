@@ -3,7 +3,7 @@
 
 <h3> Blog and Buy Me a Coffee</h3>
 <p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a></p>
-<a href="https://www.buymeacoffee.com/app/angietechcafe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="40" height="40"></a>
+
 
 
 - 🔭 I’m currently working on [Tiny Projects](https://github.com/angieintech/Tiny-Projects) and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
