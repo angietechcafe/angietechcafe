@@ -2,7 +2,8 @@
 
 
 <h3> Blog and Buy Me a Coffee</h3>
-<p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a></p>
+<p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a>
+<a href="https://www.buymeacoffee.com/angietechcafe"><img src="https://github.com/angietechcafe/img/blob/main/buy%20me%20a%20coffee!.png?raw=true" alt="Buy Me a Coffee" width="40" height="40"></p>
 
 
 
