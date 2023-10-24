@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angie. I'm also a lifelong learner. </h1>
 
-<p><img src="https://github.com/angietechcafe/img/blob/main/girl_coding.gif?raw=true" alt="girl coding" width="400" height="400" align="center"></p>
+<p><img src="https://github.com/angietechcafe/img/blob/main/girl_coding.gif?raw=true" alt="girl coding" width="400" height="400" align="center"/></p>
 
 <h3> Blog and Buy Me a Coffee</h3>
 <p><a href="https://angietechcafe.medium.com/"><img src="https://github.com/angietechcafe/img/blob/main/medium.jpg?raw=true" alt="Medium" width="40" height="40"/></a>
