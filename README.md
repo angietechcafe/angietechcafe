@@ -11,12 +11,11 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/angietechcafe/img/blob/main/AWS.jpeg?raw=true" alt="aws" width="40" height="40"/> </a></p>
 
 
-<p align="center">
+ <ul align="center">
+   <li>🔭 I’m currently working on <a href="https://github.com/angieintech/Tiny-Projects">Tiny Projects</a> and <a href="https://github.com/angieintech/CTFWriteUps">CTF Writeups</a> </li>
+   <li>👩‍💻 I have contributed to open source projects such as <a href="https://github.com/Shuffle/Shuffle">Shuffle</a> , <a href="https://github.com/ncclementi/wwc_test/pull/1">Women Who Code</a>, <a href="https://github.com/orgs/hackforla/teams/engineering-write/members">Hack For LA</a>, and <a href="https://github.com/paragonie/awesome-appsec">Awesome Appsec</a></li>
+   <li>🌱 I’m currently learning <b>application security and cloud security topics.</b></li>
+ </ul>
 
-- 🔭 I’m currently working on [Tiny Projects](https://github.com/angieintech/Tiny-Projects) and [CTF Writeups](https://github.com/angieintech/CTFWriteUps) 
-
-- 👩‍💻 I have contributed to open source projects such as [Shuffle](https://github.com/Shuffle/Shuffle) , [Women Who Code](https://github.com/ncclementi/wwc_test/pull/1), [Hack For LA](https://github.com/orgs/hackforla/teams/engineering-write/members), and [Awesome Appsec](https://github.com/paragonie/awesome-appsec) 
-
-- 🌱 I’m currently learning **application security and cloud security topics.** </p>
 
 
