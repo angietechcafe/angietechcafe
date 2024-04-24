@@ -14,7 +14,7 @@
 
  <ul align="center">
    <li>🔭 I’m currently working on <a href="https://github.com/angieintech/Tiny-Projects">Tiny Projects</a> and <a href="https://github.com/angieintech/CTFWriteUps">CTF Writeups</a><br></li>
-   <li>👩‍💻 I have contributed to open source projects such as <a href="https://github.com/Shuffle/Shuffle">Shuffle</a>, <a href="https://github.com/ncclementi/wwc_test/pull/1">Women Who Code</a>, <a href="https://github.com/orgs/hackforla/teams/engineering-write/members">Hack For LA</a>, and <a href="https://github.com/paragonie/awesome-appsec">Awesome Appsec</a><br></li>
+   <li>👩‍💻 I have contributed to open source projects such as <a href="https://github.com/Shuffle/Shuffle">Shuffle</a>, <a href="https://github.com/orgs/hackforla/teams/engineering-write/members">Hack For LA</a>, and <a href="https://github.com/paragonie/awesome-appsec">Awesome Appsec</a><br></li>
    <li>🌱 I’m currently learning <b>DevOps and cloud security topics.</b></li>
  </ul>
 
